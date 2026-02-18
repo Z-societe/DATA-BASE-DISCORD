@@ -1,6 +1,16 @@
 # DATA-BASE-DISCORD
 POUR LE BOT ZLOOKUP DE LA ZSOCIETY
+rejoind notre serveur discord dès mintenant 
+https://dcd.gg/Z-societe
 
+    [Breach Entry 1 ] â‡’
+        - dbname: discordapp.com
+        - email: muffinoderso@gmail.com
+        - id: 66427f5108fcdd38d651d1d1
+        - password: poPo
+        - _version_: 1830189281661943800
+
+   
     [ Breach Entry 2 ] â‡’
         - dbname: discordapp.com
         - email: byjoujou91@gmail.com
